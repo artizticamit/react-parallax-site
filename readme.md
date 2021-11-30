@@ -1,0 +1,1 @@
+# This is a website style for parallax scrolling site in React.
